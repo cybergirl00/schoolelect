@@ -26,8 +26,9 @@ const Candidates = () => {
     }, [])
     
   return (
+    <div>
+          <h2 className="text-3xl font-bold flex flex-col items-center justify-center p-3">Know Your Candidates</h2>
     <ScrollArea className="p-2 flex flex-col items-center justify-center">
-        <h2 className="text-3xl font-bold flex flex-col items-center justify-center p-3">Know Your Candidates</h2>
         <div 
         className="flex gap-2 items-center  justify-center"
         >
@@ -48,6 +49,7 @@ const Candidates = () => {
         </div>
         <ScrollBar orientation="horizontal" />
     </ScrollArea>
+    </div>
   )
 }
 
