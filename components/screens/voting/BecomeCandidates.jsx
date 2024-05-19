@@ -10,9 +10,9 @@ const BecomeCandidates = () => {
       </h2>
     <div className="grid grid-cols-1 lg:grid-cols-2 items-center justify-center  p-5">
       <div className="p-3">
-            <h2 className="text-2xl font-bold ">Simple</h2>
+            <h2 className="text-2xl font-bold ">Lead the Change: Stand as a Candidate</h2>
             <h2 className="text-lg  w-90 p-3">
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed doloribus illo non quaerat consequuntur? Neque est obcaecati ex blanditiis inventore!</h2>
+            By stepping forward as a candidate, you have the chance to represent the voices and interests of your peers, contribute fresh perspectives, and drive positive change within the university. Your candidacy not only demonstrates your commitment to student welfare and academic excellence but also showcases your leadership qualities and dedication to serving the student body. </h2>
 <Button className='' asChild>
     <Link href={'/candidateform'}>
     Become a Candidate

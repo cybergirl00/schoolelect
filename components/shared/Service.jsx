@@ -36,21 +36,21 @@ export const projects = [
     {
       title: "Democracy",
       description:
-        "A technology company that builds economic infrastructure for the internet.",
+        "Democracy is a system of government in which power is vested in the people, who rule either directly or through elected representatives. It is a form of political organization that ensures the rights and freedoms of its citizens, promotes equality and justice, and upholds the principles of majority rule and minority rights.",
       link: "https://stripe.com",
       icon: <Vote size={30} />
     },
     {
       title: "Online Voting",
       description:
-        "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
+        "Online voting, a modern electoral innovation, revolutionizes the democratic process by enabling voters to participate in elections conveniently and securely from any location with internet access.",
       link: "https://netflix.com",
       icon: <Newspaper size={30}/>
     },
     {
       title: "Live view Analysis",
       description:
-        "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
+        "Live View and Analysis on Al-Hikmah University's Online Voting Web App provides real-time insights into the electoral process, empowering voters and administrators alike. This cutting-edge feature leverages advanced data visualization techniques to present election results in a clear and intuitive manner. ",
       link: "https://netflix.com",
       icon: <Newspaper size={30}/>
     },
